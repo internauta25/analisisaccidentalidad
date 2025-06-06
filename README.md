@@ -60,9 +60,7 @@ El dashboard incluye filtros por año y clase de accidente, así como un paráme
 ## 🔗 Enlace al dashboard
 
 > Puedes explorar el dashboard interactivo en el siguiente enlace:  
-[🔗 *Nombre del dashboard* en Tableau Public](#)
-
----
+https://public.tableau.com/app/profile/jose.luis.bejarano.vasquez4776/viz/ComportamientodelaaccidentalidadenBarranquillaentrelosaos2018y2025/Dashboard?publish=yes
 
 ## 💾 Repositorio
 
