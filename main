@@ -1,15 +1,1 @@
-Introducción
-La seguridad vial es una problemática constante en las ciudades colombianas, y Barranquilla no es la excepción. En este proyecto se desarrolla un análisis detallado de los accidentes de tránsito ocurridos en la ciudad desde el año 2018 hasta el presente, utilizando Tableau como herramienta principal de visualización.
 
-Este análisis permite identificar tendencias, comportamientos críticos por tipo de accidente, distribución de víctimas según género, y evolución mensual de heridos y fallecidos. Toda la información es presentada de forma interactiva para facilitar la exploración y comprensión de los datos.
-
-Objetivos del análisis
-Visualizar la evolución temporal de los accidentes de tránsito en Barranquilla entre 2018 y 2025.
-
-Identificar las clases de accidentes más frecuentes.
-
-Analizar la relación entre víctimas heridas y fallecidas, incluyendo diferencias por género.
-
-Determinar los meses con mayor ocurrencia de accidentes fatales o graves.
-
-Proporcionar un dashboard interactivo que facilite la toma de decisiones o futuras investigaciones
